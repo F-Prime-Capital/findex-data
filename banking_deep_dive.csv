@@ -1,8 +1,8 @@
 Ticker,Disruptor,Name,No. of users (MM),YoY or LTM user growth (%),ARPU,CAC,Valuation / total assets (similar problem for startups without deposits),Price/Book
-ML,Disruptor,MoneyLion,7.8,1.0,48,5,0.78,
-SOFI,Disruptor,SoFi,5.7,0.47,331,367,0.25,
-NRDS,Disruptor,Nerdwallet,23.0,0.07,29,N/A,2.74,
-NU,Disruptor,NuBank,79.1,0.33,92,4,0.76,
-DAVE,Disruptor,Dave,8.7,0.36,28,16,1.27,
-GDOT,Disruptor,Greendot,3.8,-0.22,58,N/A,0.03,
-JPM - Consumer banking arm only,Incumbent,CHASE,71.0,0.08,2150,387,0.1,
+ML,Disruptor,MoneyLion,7.8,1.0,48,5,0.78,0.69
+SOFI,Disruptor,SoFi,5.7,0.47,331,367,0.25,1.49
+NRDS,Disruptor,Nerdwallet,23.0,0.07,29,N/A,2.74,1.91
+NU,Disruptor,NuBank,79.1,0.33,92,4,0.76,5.85
+DAVE,Disruptor,Dave,8.7,0.36,28,16,1.27,#N/A
+GDOT,Disruptor,Greendot,3.8,-0.22,58,N/A,0.03,0.93
+JPM - Consumer banking arm only,Incumbent,CHASE,71.0,0.08,2150,387,0.1,1.504
