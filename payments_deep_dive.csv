@@ -1,4 +1,4 @@
-Ticker,Disruptor,Name,"Volume (e.g., TPV for PayPal, send volume for Remitly, GMV for Shopify) ($BN)",Volume Growth,"Revenue as % of TPV (gross, includes SaaS revenue)","Revenue as % of TPV (net, including SaaS Revenue)",Take rate (gross),TPV/EV
+Ticker,Disruptor,Name,TPV/Send Volume ($B),TPV Growth,Revenue as % of gross TPV (gross),Revenue as % of TPV (net),Take rate (gross),TPV/EV
 ADYEY,Disruptor,Adyen,829,49%,0.0116,0.0017000000000000001,0.0017000000000000001,43.20970269
 DLO,Disruptor,dLocal,12,64%,0.0391,0.0184,0.038,2.196661543
 FLT,Disruptor,FleetCor,126,24%,0.0281,0.0218,0.0062,4.911300381
