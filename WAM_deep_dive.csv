@@ -1,4 +1,4 @@
-Ticker,Disruptor,Name,No. of users (MM),YoY or LTM user growth (%),AUM ($BN),LTM AUM Growth %,Revenue / $1 of AUM
+Ticker,Disruptor,Name,No. of users (M),YoY user growth (%),AUM ($B),YoY AUM Growth %,Revenue/$1 of AUM
 COIN,Disruptor,Coinbase,110.0,0.12240000000000001,80.0,-0.6875,0.034
 HOOD,Disruptor,Robinhood,15.9,0.3475,78.0,-0.15789999999999998,0.019
 BKKT,Disruptor,Bakkt Holdings,0.7,-0.7308,0.69,-0.3889,0.08
