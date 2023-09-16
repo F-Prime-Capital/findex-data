@@ -1,30 +1,16 @@
-file_name,date
-WAM_deep_dive.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-WAM_deep_dive.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-all_historical_tickers_in_index.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-banking_deep_dive.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-banking_deep_dive.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-company_table_data_v2.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-company_table_data_v2.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-fintech_index_performances_v2.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-fintech_index_performances_v2.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-fintech_index_prices_v2.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-fintech_index_prices_v2.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_ebitda_margins_data.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_ebitda_margins_data.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_gross_margin_data.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_gross_margin_data.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_multiples_data.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_multiples_data.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_profit_margins.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-historic_profit_margins.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-index_performances.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-last_updated_dates.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-last_updated_dates.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-market_cap_data_v2.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-market_cap_data_v2.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-payments_deep_dive.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-payments_deep_dive.json,"Mon, 07 Aug 2023 12:50:04 GMT"
-regression_data.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-revenue_growth_classifications_data.csv,"Mon, 07 Aug 2023 12:50:04 GMT"
-revenue_growth_classifications_data.json,"Mon, 07 Aug 2023 12:50:04 GMT"
+last_updated,file_name
+2023-09-16,fintech_index_prices_v2.csv
+2023-09-16,fintech_index_performances_v2.csv
+2023-09-16,market_cap_data_v2.csv
+2023-09-16,company_table_data_v2.csv
+2023-09-16,payments_deep_dive.csv
+2023-09-16,banking_deep_dive.csv
+2023-09-16,WAM_deep_dive.csv
+2023-06-30,historic_gross_margin_data.csv
+2023-06-30,historic_ebitda_margins_data.csv
+2023-06-30,historic_multiples_data.csv
+2023-06-30,revenue_growth_classifications_data.csv
+2023-06-30,historic_profit_margins.csv
+2023-09-16,regression_data.csv
+2023-09-16,index_performances.csv
+2023-06-30,all_historical_tickers_in_index.csv
