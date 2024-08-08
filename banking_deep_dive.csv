@@ -1,8 +1,8 @@
 Ticker,Disruptor,Name,No. of Users (M),YoY User Growth (%),ARPU ($),CAC ($),Valuation/Total Assets,Price/Book
-ML,Disruptor,MoneyLion,12.1,1.24,36,3,0.64,1.95
-SOFI,Disruptor,SoFi,7.0,0.47,324,247,0.27,1.16
-NRDS,Disruptor,Nerdwallet,24.0,0.26,25,N/A,1.46,2.22
-NU,Disruptor,NuBank,89.1,0.27,96,9,0.96,7.77
+ML,Disruptor,MoneyLion,12.1,1.24,36,3,0.64,1.76
+SOFI,Disruptor,SoFi,7.0,0.47,324,247,0.27,1.14
+NRDS,Disruptor,Nerdwallet,24.0,0.26,25,N/A,1.46,2.2
+NU,Disruptor,NuBank,89.1,0.27,96,9,0.96,7.82
 DAVE,Disruptor,Dave,9.9,0.27,27,23,1.27,3.35
 GDOT,Disruptor,Greendot,3.7,-0.15,51,N/A,0.01,1.504
 JPM - Consumer banking arm only,Incumbent,CHASE,74.8,0.06,2131,318,0.11,1.57
