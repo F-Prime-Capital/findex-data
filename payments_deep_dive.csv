@@ -1,9 +1,9 @@
 Ticker,Disruptor,Name,Total Payments Volume ($B),TPV Growth,Revenue as % of TPV (gross),Revenue as % of TPV (net),Take Rate,Payments Volume/EV
-ADYEN.AS,Disruptor,Adyen,"$1,346",0.41,,,0.15%,33.6
+ADYEN.AS,Disruptor,Adyen,"$1,346",0.41,,,0.15%,33.7
 DLO,Disruptor,dLocal,$23,0.44,3.19%,1.19%,2.80%,6.2
 CPAY,Disruptor,FleetCor,$157,0.11,2.48%,1.94%,0.72%,5.4
 FLYW,Disruptor,Flywire,$28,0.19,1.70%,1.04%,1.42%,20.7
-LSPD,Disruptor,Lightspeed POS Inc.,$30,0.63,3.33%,1.81%,2.25%,24.7
+LSPD,Disruptor,Lightspeed POS Inc.,$30,0.63,3.33%,1.81%,2.25%,24.8
 MQ,Disruptor,Marqeta,$273,0.31,0.18%,0.12%,0.17%,139.1
 MELI,Disruptor,MercadoLibre,$195,0.2,9.75%,4.51%,5.62%,1.5
 PAGS,Disruptor,PagBank,$94,0.21,3.67%,0.52%,1.71%,9.7
