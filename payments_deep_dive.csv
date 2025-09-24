@@ -1,20 +1,20 @@
 Ticker,Disruptor,Name,Total Payments Volume ($B),TPV Growth,Revenue as % of TPV (gross),Revenue as % of TPV (net),Take Rate,Payments Volume/EV
 ADYEN.AS,Disruptor,Adyen,"$1,346",0.41,,,0.15%,36.5
-DLO,Disruptor,dLocal,$23,0.44,3.19%,1.19%,2.80%,6.1
+DLO,Disruptor,dLocal,$23,0.44,3.19%,1.19%,2.80%,5.9
 CPAY,Disruptor,FleetCor,$157,0.11,2.48%,1.94%,0.72%,5.8
 FLYW,Disruptor,Flywire,$28,0.19,1.70%,1.04%,1.42%,20.1
-LSPD,Disruptor,Lightspeed POS Inc.,$30,0.63,3.33%,1.81%,2.25%,23.6
-MQ,Disruptor,Marqeta,$273,0.31,0.18%,0.12%,0.17%,156.6
+LSPD,Disruptor,Lightspeed POS Inc.,$30,0.63,3.33%,1.81%,2.25%,23.5
+MQ,Disruptor,Marqeta,$273,0.31,0.18%,0.12%,0.17%,155.0
 MELI,Disruptor,MercadoLibre,$195,0.2,9.75%,4.51%,5.62%,1.5
-PAGS,Disruptor,PagBank,$94,0.21,3.67%,0.52%,1.71%,9.0
-PAY,Disruptor,Paymentus,$550,0.32,0.14%,0.04%,0.16%,135.2
-PAYO,Disruptor,Payoneer,$77,0.17,1.23%,1.03%,1.22%,40.0
-PYPL,Disruptor,Paypal,"$1,653",0.12,1.90%,0.96%,1.70%,24.9
+PAGS,Disruptor,PagBank,$94,0.21,3.67%,0.52%,1.71%,9.1
+PAY,Disruptor,Paymentus,$550,0.32,0.14%,0.04%,0.16%,144.9
+PAYO,Disruptor,Payoneer,$77,0.17,1.23%,1.03%,1.22%,39.1
+PYPL,Disruptor,Paypal,"$1,653",0.12,1.90%,0.96%,1.70%,25.1
 SHOP,Disruptor,Shopify,$165,0.3,4.94%,2.50%,3.78%,0.8
 SQ,Disruptor,Square,$236,0.15,10.16%,4.23%,2.76%,#N/A
-STNE,Disruptor,Stone,$76,0.05,3.35%,2.51%,0.79%,11.7
+STNE,Disruptor,Stone,$76,0.05,3.35%,2.51%,0.79%,11.8
 WISE.LSE,Disruptor,Wise,$164,0.17,1.10%,0.90%,1,
-TOST,Disruptor,Toast,$150,0.27,3.11%,1.11%,2.63%,6.7
-RELY,Disruptor,Remitly,$50,0.38,2.34%,1.54%,2.32%,16.4
+TOST,Disruptor,Toast,$150,0.27,3.11%,1.11%,2.63%,7.1
+RELY,Disruptor,Remitly,$50,0.38,2.34%,1.54%,2.32%,16.5
 AVDX,Disruptor,AvidXchange,$82,0.1,0.52%,0.37%,0.39%,#N/A
 FI,Incumbent,Fiserv,"$4,040",0.13,0.50%,0.47%,0.25%,37.7
