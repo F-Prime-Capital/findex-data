@@ -1,8 +1,8 @@
 Ticker,Disruptor,Name,No. of Users (M),YoY User Growth (%),ARPU ($),CAC ($),Valuation/Total Assets,Price/Book
-SOFI,Disruptor,SoFi,11.75,0.25,$270,$313,0.49,2.14
-NRDS,Disruptor,Nerdwallet,28,0.27,$27,$64,1.61,1.97
-NU,Disruptor,NuBank,122.7,0.12,$120,$16,1.06,6.01
-CHYM,Disruptor,Chime,8.7,0.23,$243,"$1,850",7.95,5.86
-GDOT,Disruptor,Greendot,3.48,0.01,$580,,0.11,0.68
-CRCL,Disruptor,Circle,,,,,0.53,8.31
+SOFI,Disruptor,SoFi,11.75,0.25,$270,$313,0.49,2.15
+NRDS,Disruptor,Nerdwallet,28,0.27,$27,$64,1.61,1.89
+NU,Disruptor,NuBank,122.7,0.12,$120,$16,1.06,5.97
+CHYM,Disruptor,Chime,8.7,0.23,$243,"$1,850",7.95,5.59
+GDOT,Disruptor,Greendot,3.48,0.01,$580,,0.11,0.64
+CRCL,Disruptor,Circle,,,,,0.53,8.4
 JPM,Incumbent,CHASE,84,0.0,"$1,172",,0.18,2.5
