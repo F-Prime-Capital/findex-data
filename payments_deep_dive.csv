@@ -1,5 +1,5 @@
 Ticker,Disruptor,Name,Total Payments Volume ($B),TPV Growth,Revenue as % of TPV (gross),Revenue as % of TPV (net),Take Rate,Payments Volume/EV
-ADYEN.AS,Disruptor,Adyen,"$1,685",0.13,,,,83.9
+ADYEN.AS,Disruptor,Adyen,"$1,685",0.13,,,,83.8
 DLO,Disruptor,dLocal,$47,0.65,2.59%,0.93%,,13.3
 CPAY,Disruptor,Corpay,$290,0.58,1.65%,1.28%,0.62%,8.8
 FLYW,Disruptor,Flywire,$41,0.3,1.67%,0.98%,1.36%,24.8
@@ -10,7 +10,7 @@ NAVN,Disruptor,Navan,$10,0.36,7.57%,5.46%,6.52%,1.6
 PAGS,Disruptor,PagBank,$98,0.01,3.55%,0.50%,1.54%,9.4
 PAY,Disruptor,Paymentus,,,,,,0.0
 PAYP,Disruptor,PayPay,$128,0.25,1.97%,1.53%,1.65%,10.7
-PICS,Disruptor,PicS,$108,0.35,2.00%,1.18%,1.65%,-62.8
+PICS,Disruptor,PicS,$108,0.35,2.00%,1.18%,1.65%,-61.0
 PAYO,Disruptor,Payoneer,$91,,1.18%,1.00%,1.15%,42.1
 PYPL,Disruptor,Paypal,"$1,841",,1.83%,0.94%,1.62%,36.0
 SHOP,Disruptor,Shopify,$404,,3.06%,1.47%,2.40%,2.8
