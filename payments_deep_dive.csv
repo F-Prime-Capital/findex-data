@@ -1,22 +1,22 @@
 Ticker,Disruptor,Name,Total Payments Volume ($B),TPV Growth,Revenue as % of TPV (gross),Revenue as % of TPV (net),Take Rate,Payments Volume/EV
-ADYEN.AS,Disruptor,Adyen,"$1,685",0.13,,,,96.8
-DLO,Disruptor,dLocal,$47,0.65,2.59%,0.93%,,14.4
-CPAY,Disruptor,Corpay,$290,0.58,1.65%,1.28%,0.62%,8.7
-FLYW,Disruptor,Flywire,$41,0.3,1.67%,0.98%,1.36%,22.9
-LSPD,Disruptor,Lightspeed POS,$41,0.21,2.99%,1.28%,1.93%,46.0
-MQ,Disruptor,Marqeta,$410,0.33,0.16%,0.11%,0.14%,412.2
-MELI,Disruptor,MercadoLibre,$307,0.43,10.37%,4.55%,5.58%,3.1
-NAVN,Disruptor,Navan,$10,0.36,7.57%,5.46%,6.52%,2.1
-PAGS,Disruptor,PagBank,$98,0.01,3.55%,0.50%,1.54%,9.4
+ADYEN.AS,Disruptor,Adyen,"$1,807",0.19,,0.0017000000000000001,,103.8
+DLO,Disruptor,dLocal,$55,0.76,2.45%,0.0084,,16.8
+CPAY,Disruptor,Corpay,$326,0.66,1.54%,0.012199999999999999,0.58%,9.8
+FLYW,Disruptor,Flywire,$43,0.33,1.67%,0.0096,1.66%,24.0
+LSPD,Disruptor,Lightspeed POS,$42,0.18,2.95%,0.0127,1.90%,47.1
+MQ,Disruptor,Marqeta,$439,0.33,0.15%,0.0011,0.14%,441.3
+MELI,Disruptor,MercadoLibre,$343,0.48,10.26%,0.0438,5.71%,3.4
+NAVN,Disruptor,Navan,$11,0.43,7.51%,0.0545,7.05%,2.3
+PAGS,Disruptor,PagBank,$101,0.06,3.86%,0.0049,1.54%,9.7
 PAY,Disruptor,Paymentus,,,,,,0.0
-PAYP,Disruptor,PayPay,$128,0.25,1.97%,1.53%,1.65%,9.7
-PICS,Disruptor,PicS,$108,0.35,2.00%,1.18%,1.65%,-78.7
-PAYO,Disruptor,Payoneer,$91,,1.18%,1.00%,1.15%,42.1
-PYPL,Disruptor,Paypal,"$1,841",,1.83%,0.94%,1.62%,39.1
-SHOP,Disruptor,Shopify,$404,,3.06%,1.47%,2.40%,2.3
-XYZ,Disruptor,Block,$258,0.08,9.50%,6.43%,2.95%,6.5
-STNE,Disruptor,Stone,$104,0.15,2.53%,1.95%,0.35%,30.0
-WISE.LSE,Disruptor,Wise,$244,0.3,0.89%,0.78%,0.52%,-11.8
-TOST,Disruptor,Toast,$204,0.22,3.16%,1.16%,2.58%,13.2
-RELY,Disruptor,Remitly,$81,0.37,2.13%,1.43%,,22.3
-FISV,Incumbent,Fiserv,"$4,600",,0.46%,0.43%,0.22%,
+PAYP,Disruptor,PayPay,$132,0.19,1.98%,0.0154,1.64%,10.0
+PICS,Disruptor,PicS,$118,0.39,2.16%,0.0127,0.37%,-86.0
+PAYO,Disruptor,Payoneer,$94,,1.16%,0.009899999999999999,1.16%,43.5
+PYPL,Disruptor,Paypal,"$1,884",,1.81%,0.0092,1.61%,40.0
+SHOP,Disruptor,Shopify,$432,,3.07%,0.0147,2.41%,2.4
+XYZ,Disruptor,Block,$266,0.11,9.41%,0.0652,2.97%,6.7
+STNE,Disruptor,Stone,$108,0.14,2.53%,0.0197,0.30%,31.2
+WISE.LSE,Disruptor,Wise,$258,0.29,1.03%,0.0078000000000000005,0.50%,-12.5
+TOST,Disruptor,Toast,$215,0.22,3.17%,0.011699999999999999,2.59%,13.9
+RELY,Disruptor,Remitly,$86,0.33,2.11%,0.014199999999999999,,23.6
+FISV,Incumbent,Fiserv,"$4,600",,0.45%,0.0042,0.23%,
