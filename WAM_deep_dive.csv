@@ -1,9 +1,9 @@
 Ticker,Disruptor,Name,No. of Users (M),YoY User Growth (%),Monthly Active Users (M),AUM ($B),YoY AUM Growth %,Trading Volume ($B),Revenue/$1 of AUM,Revenue/$1 of Trading Volume
-HOOD,Disruptor,Robinhood,27.4,0.06,13.5,307.3,0.39,2776.0,0.015,0.002
-BULL,Disruptor,Webull,27.6,0.15,5.1,24.0,0.9,866.0,0.026,0.0007
-ETOR,Disruptor,eToro,40.0,0.0,4.0,17.0,0.15,187.0,0.053,0.005
-GEMI,Disruptor,Gemini,1.7,0.17,0.6,11.1,-0.22,6.3,0.018,0.031
-COIN,Disruptor,Coinbase,,,8.2,294.4,,1022.0,,0.006
-BLSH,Disruptor,Bullish,20.0,,,,,741.0,,0.0004
-WLTH,Disruptor,Wealthfront,1.5,0.15,,96.6,0.19,,0.004,
-SCHW,Incumbent,Charles Schwab,39.1,0.06,,11767.9,0.19,,0.002,
+HOOD,Disruptor,Robinhood,28.4,0.07,14.1,368.7,0.32,3067.0,0.013,0.002
+BULL,Disruptor,Webull,28.2,0.13,5.1,28.5,0.79,984.0,0.024,0.0007
+ETOR,Disruptor,eToro,40.0,,4.3,19.2,0.1,184.0,0.048,0.005
+GEMI,Disruptor,Gemini,1.7,0.15,0.6,8.4,-0.54,38.0,0.025,0.005
+COIN,Disruptor,Coinbase,,,7.6,245.9,,933.0,,0.007
+BLSH,Disruptor,Bullish,20.0,,,,,692.0,,0.0005
+WLTH,Disruptor,Wealthfront,1.5,0.14,,99.0,0.12,,0.004,
+SCHW,Incumbent,Charles Schwab,39.8,0.06,,13084.9,0.22,,0.002,
